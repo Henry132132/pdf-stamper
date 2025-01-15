@@ -1,0 +1,12 @@
+{
+  "name": "pdf-stamper",
+  "version": "1.0.0",
+  "description": "Simple PDF stamping microservice using pdf-lib and Express",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdf-lib": "^1.17.1"
+  }
+}
